@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "DBRobot.Controllers.DBRController",
+    "Method": "GetDataFromDB",
+    "RelativePath": "api/DBR",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

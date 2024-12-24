@@ -1,0 +1,6 @@
+@DBRobot_HostAddress = http://localhost:5240/api/DBR
+
+GET {{DBRobot_HostAddress}}/DBR/
+Accept: application/json
+
+###

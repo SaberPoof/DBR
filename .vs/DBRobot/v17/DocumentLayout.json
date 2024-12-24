@@ -1,0 +1,201 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\eg.tagiev\\source\\repos\\DBRobot\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE20EB3C-9816-4084-A58C-672D11E5807C}|DBRobot\\DBRobot.csproj|c:\\users\\eg.tagiev\\source\\repos\\dbrobot\\dbrobot\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE20EB3C-9816-4084-A58C-672D11E5807C}|DBRobot\\DBRobot.csproj|solutionrelative:dbrobot\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE20EB3C-9816-4084-A58C-672D11E5807C}|DBRobot\\DBRobot.csproj|c:\\users\\eg.tagiev\\source\\repos\\dbrobot\\dbrobot\\services\\tokenmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE20EB3C-9816-4084-A58C-672D11E5807C}|DBRobot\\DBRobot.csproj|solutionrelative:dbrobot\\services\\tokenmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE20EB3C-9816-4084-A58C-672D11E5807C}|DBRobot\\DBRobot.csproj|c:\\users\\eg.tagiev\\source\\repos\\dbrobot\\dbrobot\\interface\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE20EB3C-9816-4084-A58C-672D11E5807C}|DBRobot\\DBRobot.csproj|solutionrelative:dbrobot\\interface\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE20EB3C-9816-4084-A58C-672D11E5807C}|DBRobot\\DBRobot.csproj|c:\\users\\eg.tagiev\\source\\repos\\dbrobot\\dbrobot\\services\\marketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE20EB3C-9816-4084-A58C-672D11E5807C}|DBRobot\\DBRobot.csproj|solutionrelative:dbrobot\\services\\marketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE20EB3C-9816-4084-A58C-672D11E5807C}|DBRobot\\DBRobot.csproj|c:\\users\\eg.tagiev\\source\\repos\\dbrobot\\dbrobot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE20EB3C-9816-4084-A58C-672D11E5807C}|DBRobot\\DBRobot.csproj|solutionrelative:dbrobot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE20EB3C-9816-4084-A58C-672D11E5807C}|DBRobot\\DBRobot.csproj|c:\\users\\eg.tagiev\\source\\repos\\dbrobot\\dbrobot\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DE20EB3C-9816-4084-A58C-672D11E5807C}|DBRobot\\DBRobot.csproj|solutionrelative:dbrobot\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE20EB3C-9816-4084-A58C-672D11E5807C}|DBRobot\\DBRobot.csproj|c:\\users\\eg.tagiev\\source\\repos\\dbrobot\\dbrobot\\controllers\\dbrcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE20EB3C-9816-4084-A58C-672D11E5807C}|DBRobot\\DBRobot.csproj|solutionrelative:dbrobot\\controllers\\dbrcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE20EB3C-9816-4084-A58C-672D11E5807C}|DBRobot\\DBRobot.csproj|c:\\users\\eg.tagiev\\source\\repos\\dbrobot\\dbrobot\\services\\authenticationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE20EB3C-9816-4084-A58C-672D11E5807C}|DBRobot\\DBRobot.csproj|solutionrelative:dbrobot\\services\\authenticationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE20EB3C-9816-4084-A58C-672D11E5807C}|DBRobot\\DBRobot.csproj|c:\\users\\eg.tagiev\\source\\repos\\dbrobot\\dbrobot\\interface\\imarketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE20EB3C-9816-4084-A58C-672D11E5807C}|DBRobot\\DBRobot.csproj|solutionrelative:dbrobot\\interface\\imarketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE20EB3C-9816-4084-A58C-672D11E5807C}|DBRobot\\DBRobot.csproj|c:\\users\\eg.tagiev\\source\\repos\\dbrobot\\dbrobot\\interface\\itokenmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE20EB3C-9816-4084-A58C-672D11E5807C}|DBRobot\\DBRobot.csproj|solutionrelative:dbrobot\\interface\\itokenmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE20EB3C-9816-4084-A58C-672D11E5807C}|DBRobot\\DBRobot.csproj|c:\\users\\eg.tagiev\\source\\repos\\dbrobot\\dbrobot\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DE20EB3C-9816-4084-A58C-672D11E5807C}|DBRobot\\DBRobot.csproj|solutionrelative:dbrobot\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\eg.tagiev\\source\\repos\\DBRobot\\DBRobot\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "DBRobot\\Services\\TokenService.cs",
+              "ToolTip": "C:\\Users\\eg.tagiev\\source\\repos\\DBRobot\\DBRobot\\Services\\TokenService.cs",
+              "RelativeToolTip": "DBRobot\\Services\\TokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBYAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T11:23:26.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TokenManager.cs",
+              "DocumentMoniker": "C:\\Users\\eg.tagiev\\source\\repos\\DBRobot\\DBRobot\\Services\\TokenManager.cs",
+              "RelativeDocumentMoniker": "DBRobot\\Services\\TokenManager.cs",
+              "ToolTip": "C:\\Users\\eg.tagiev\\source\\repos\\DBRobot\\DBRobot\\Services\\TokenManager.cs",
+              "RelativeToolTip": "DBRobot\\Services\\TokenManager.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAABkAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T11:23:36.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MarketService.cs",
+              "DocumentMoniker": "C:\\Users\\eg.tagiev\\source\\repos\\DBRobot\\DBRobot\\Services\\MarketService.cs",
+              "RelativeDocumentMoniker": "DBRobot\\Services\\MarketService.cs",
+              "ToolTip": "C:\\Users\\eg.tagiev\\source\\repos\\DBRobot\\DBRobot\\Services\\MarketService.cs",
+              "RelativeToolTip": "DBRobot\\Services\\MarketService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAcwBoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T10:42:43.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DBRController.cs",
+              "DocumentMoniker": "C:\\Users\\eg.tagiev\\source\\repos\\DBRobot\\DBRobot\\Controllers\\DBRController.cs",
+              "RelativeDocumentMoniker": "DBRobot\\Controllers\\DBRController.cs",
+              "ToolTip": "C:\\Users\\eg.tagiev\\source\\repos\\DBRobot\\DBRobot\\Controllers\\DBRController.cs",
+              "RelativeToolTip": "DBRobot\\Controllers\\DBRController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T10:41:59.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthenticationManager.cs",
+              "DocumentMoniker": "C:\\Users\\eg.tagiev\\source\\repos\\DBRobot\\DBRobot\\Services\\AuthenticationManager.cs",
+              "RelativeDocumentMoniker": "DBRobot\\Services\\AuthenticationManager.cs",
+              "ToolTip": "C:\\Users\\eg.tagiev\\source\\repos\\DBRobot\\DBRobot\\Services\\AuthenticationManager.cs",
+              "RelativeToolTip": "DBRobot\\Services\\AuthenticationManager.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAiwBIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T10:33:50.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IMarketService.cs",
+              "DocumentMoniker": "C:\\Users\\eg.tagiev\\source\\repos\\DBRobot\\DBRobot\\Interface\\IMarketService.cs",
+              "RelativeDocumentMoniker": "DBRobot\\Interface\\IMarketService.cs",
+              "ToolTip": "C:\\Users\\eg.tagiev\\source\\repos\\DBRobot\\DBRobot\\Interface\\IMarketService.cs",
+              "RelativeToolTip": "DBRobot\\Interface\\IMarketService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T10:07:43.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ITokenService.cs",
+              "DocumentMoniker": "C:\\Users\\eg.tagiev\\source\\repos\\DBRobot\\DBRobot\\Interface\\ITokenService.cs",
+              "RelativeDocumentMoniker": "DBRobot\\Interface\\ITokenService.cs",
+              "ToolTip": "C:\\Users\\eg.tagiev\\source\\repos\\DBRobot\\DBRobot\\Interface\\ITokenService.cs",
+              "RelativeToolTip": "DBRobot\\Interface\\ITokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T10:04:41.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ITokenManager.cs",
+              "DocumentMoniker": "C:\\Users\\eg.tagiev\\source\\repos\\DBRobot\\DBRobot\\Interface\\ITokenManager.cs",
+              "RelativeDocumentMoniker": "DBRobot\\Interface\\ITokenManager.cs",
+              "ToolTip": "C:\\Users\\eg.tagiev\\source\\repos\\DBRobot\\DBRobot\\Interface\\ITokenManager.cs",
+              "RelativeToolTip": "DBRobot\\Interface\\ITokenManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T10:04:35.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\eg.tagiev\\source\\repos\\DBRobot\\DBRobot\\appsettings.json",
+              "RelativeDocumentMoniker": "DBRobot\\appsettings.json",
+              "ToolTip": "C:\\Users\\eg.tagiev\\source\\repos\\DBRobot\\DBRobot\\appsettings.json",
+              "RelativeToolTip": "DBRobot\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-24T08:33:37.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\eg.tagiev\\source\\repos\\DBRobot\\DBRobot\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "DBRobot\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\eg.tagiev\\source\\repos\\DBRobot\\DBRobot\\appsettings.Development.json",
+              "RelativeToolTip": "DBRobot\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-24T08:33:35.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\eg.tagiev\\source\\repos\\DBRobot\\DBRobot\\Program.cs",
+              "RelativeDocumentMoniker": "DBRobot\\Program.cs",
+              "ToolTip": "C:\\Users\\eg.tagiev\\source\\repos\\DBRobot\\DBRobot\\Program.cs",
+              "RelativeToolTip": "DBRobot\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T08:31:18.876Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
